@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miss1" alt="miss1" /></a> </p>
 
-- 🌱 I’m currently pursuing **Master degree of Computer Science at Seattle University**
-
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/miss1?tab=repositories)
 
 - 📫 How to reach me **yangmiss2525@gmail.com**
